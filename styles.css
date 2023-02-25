@@ -8,45 +8,16 @@ background-color:#666666;
 
      display:flex;
      color:#fff;
-     padding-left:15px;
-     color: #fff;
+     margin-left: 300px;
+     padding-bottom: 200px;
+     padding: 35px 18px;
+     padding: 10px 20px;
 
     }
-nav li a {
-  
-    color:#dddddd;
-  
-    text-decoration: none;
-  
-    text-align: center;
 
-    padding-right:150px;
+    .aside .logo a span {
+        font-family: 'Clicker Script', cursive;
+        font-size: 40px;
+    }
 
-
-  
-  }
-
-  .aside .logo {
-
-    position:sticky;
-    top: 100px;
-    font-size: 30px;
-    text-transform: capitalize;
-    margin-bottom:50px;
-    
-}
-
-.aside .logo a {
-    color: var(--tex-black-900);
-    font-weight: 700;
-    padding: 15px 20px;
-    font-size: 30px;
-    letter-spacing: 5px;
-    position: relative;
-}
-
-.aside .logo a span {
-    font-family: 'Clicker Script', cursive;
-    font-size: 40px;
-}
     
