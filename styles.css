@@ -15,6 +15,11 @@ background-color:#666666;
 
     }
 
+    .my-profession{
+        font-size: 40px;
+        color:#fff;
+    }
+
     .aside .logo a span {
         font-family: 'Clicker Script', cursive;
         font-size: 40px;
